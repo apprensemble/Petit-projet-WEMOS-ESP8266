@@ -10,3 +10,5 @@ https://www.youtube.com/watch?time_continue=1&v=yninmUrl4C0
 Tout ça pour moins de 30€ :) :)
 
 Sympa comme petit projet...
+
+PS: le code est ici : https://github.com/hansjny/Natural-Nerd/tree/master/SoundReactive2
