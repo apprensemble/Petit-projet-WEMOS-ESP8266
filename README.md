@@ -12,3 +12,8 @@ Tout ça pour moins de 30€ :) :)
 Sympa comme petit projet...
 
 PS: le code est ici : https://github.com/hansjny/Natural-Nerd/tree/master/SoundReactive2
+
+# Tracey (mini bras à dessiner)
+
+https://www.instructables.com/id/Tracey-Drawing-Machine/  
+https://www.line-us.com/
